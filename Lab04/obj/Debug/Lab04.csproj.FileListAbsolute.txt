@@ -1,0 +1,11 @@
+C:\Users\drandredev\RoboaMaul\DAEA-2021-2-B\DAEA-2021-2-B\Lab04\bin\Debug\Lab03.exe.config
+C:\Users\drandredev\RoboaMaul\DAEA-2021-2-B\DAEA-2021-2-B\Lab04\bin\Debug\Lab03.exe
+C:\Users\drandredev\RoboaMaul\DAEA-2021-2-B\DAEA-2021-2-B\Lab04\bin\Debug\Lab03.pdb
+C:\Users\drandredev\RoboaMaul\DAEA-2021-2-B\DAEA-2021-2-B\Lab04\obj\Debug\Lab04.csproj.AssemblyReference.cache
+C:\Users\drandredev\RoboaMaul\DAEA-2021-2-B\DAEA-2021-2-B\Lab04\obj\Debug\Lab04.frmConDB.resources
+C:\Users\drandredev\RoboaMaul\DAEA-2021-2-B\DAEA-2021-2-B\Lab04\obj\Debug\Lab04.Persona.resources
+C:\Users\drandredev\RoboaMaul\DAEA-2021-2-B\DAEA-2021-2-B\Lab04\obj\Debug\Lab03.Properties.Resources.resources
+C:\Users\drandredev\RoboaMaul\DAEA-2021-2-B\DAEA-2021-2-B\Lab04\obj\Debug\Lab04.csproj.GenerateResource.cache
+C:\Users\drandredev\RoboaMaul\DAEA-2021-2-B\DAEA-2021-2-B\Lab04\obj\Debug\Lab04.csproj.CoreCompileInputs.cache
+C:\Users\drandredev\RoboaMaul\DAEA-2021-2-B\DAEA-2021-2-B\Lab04\obj\Debug\Lab03.exe
+C:\Users\drandredev\RoboaMaul\DAEA-2021-2-B\DAEA-2021-2-B\Lab04\obj\Debug\Lab03.pdb
