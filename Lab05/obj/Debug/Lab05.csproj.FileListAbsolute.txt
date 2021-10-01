@@ -1,0 +1,10 @@
+C:\Users\drandredev\Documents\VI SEMESTRE\Desarrollo de Aplicaciones Empresariales Avanzado\DAEA-2021-2-B\Lab05\bin\Debug\Lab05.exe.config
+C:\Users\drandredev\Documents\VI SEMESTRE\Desarrollo de Aplicaciones Empresariales Avanzado\DAEA-2021-2-B\Lab05\bin\Debug\Lab05.exe
+C:\Users\drandredev\Documents\VI SEMESTRE\Desarrollo de Aplicaciones Empresariales Avanzado\DAEA-2021-2-B\Lab05\bin\Debug\Lab05.pdb
+C:\Users\drandredev\Documents\VI SEMESTRE\Desarrollo de Aplicaciones Empresariales Avanzado\DAEA-2021-2-B\Lab05\obj\Debug\Lab05.csproj.AssemblyReference.cache
+C:\Users\drandredev\Documents\VI SEMESTRE\Desarrollo de Aplicaciones Empresariales Avanzado\DAEA-2021-2-B\Lab05\obj\Debug\Lab05.ManPerson.resources
+C:\Users\drandredev\Documents\VI SEMESTRE\Desarrollo de Aplicaciones Empresariales Avanzado\DAEA-2021-2-B\Lab05\obj\Debug\Lab05.Properties.Resources.resources
+C:\Users\drandredev\Documents\VI SEMESTRE\Desarrollo de Aplicaciones Empresariales Avanzado\DAEA-2021-2-B\Lab05\obj\Debug\Lab05.csproj.GenerateResource.cache
+C:\Users\drandredev\Documents\VI SEMESTRE\Desarrollo de Aplicaciones Empresariales Avanzado\DAEA-2021-2-B\Lab05\obj\Debug\Lab05.csproj.CoreCompileInputs.cache
+C:\Users\drandredev\Documents\VI SEMESTRE\Desarrollo de Aplicaciones Empresariales Avanzado\DAEA-2021-2-B\Lab05\obj\Debug\Lab05.exe
+C:\Users\drandredev\Documents\VI SEMESTRE\Desarrollo de Aplicaciones Empresariales Avanzado\DAEA-2021-2-B\Lab05\obj\Debug\Lab05.pdb
