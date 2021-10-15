@@ -1,0 +1,9 @@
+C:\Users\drandredev\Documents\VI SEMESTRE\Desarrollo de Aplicaciones Empresariales Avanzado\DAEA-2021-2-B\lab07\Negocio\bin\Debug\Negocio.dll
+C:\Users\drandredev\Documents\VI SEMESTRE\Desarrollo de Aplicaciones Empresariales Avanzado\DAEA-2021-2-B\lab07\Negocio\bin\Debug\Negocio.pdb
+C:\Users\drandredev\Documents\VI SEMESTRE\Desarrollo de Aplicaciones Empresariales Avanzado\DAEA-2021-2-B\lab07\Negocio\bin\Debug\Datos.dll
+C:\Users\drandredev\Documents\VI SEMESTRE\Desarrollo de Aplicaciones Empresariales Avanzado\DAEA-2021-2-B\lab07\Negocio\bin\Debug\Datos.pdb
+C:\Users\drandredev\Documents\VI SEMESTRE\Desarrollo de Aplicaciones Empresariales Avanzado\DAEA-2021-2-B\lab07\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\drandredev\Documents\VI SEMESTRE\Desarrollo de Aplicaciones Empresariales Avanzado\DAEA-2021-2-B\lab07\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\drandredev\Documents\VI SEMESTRE\Desarrollo de Aplicaciones Empresariales Avanzado\DAEA-2021-2-B\lab07\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\drandredev\Documents\VI SEMESTRE\Desarrollo de Aplicaciones Empresariales Avanzado\DAEA-2021-2-B\lab07\Negocio\obj\Debug\Negocio.dll
+C:\Users\drandredev\Documents\VI SEMESTRE\Desarrollo de Aplicaciones Empresariales Avanzado\DAEA-2021-2-B\lab07\Negocio\obj\Debug\Negocio.pdb

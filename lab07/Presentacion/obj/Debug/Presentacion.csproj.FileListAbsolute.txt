@@ -1,0 +1,15 @@
+C:\Users\drandredev\Documents\VI SEMESTRE\Desarrollo de Aplicaciones Empresariales Avanzado\DAEA-2021-2-B\lab07\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\drandredev\Documents\VI SEMESTRE\Desarrollo de Aplicaciones Empresariales Avanzado\DAEA-2021-2-B\lab07\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\drandredev\Documents\VI SEMESTRE\Desarrollo de Aplicaciones Empresariales Avanzado\DAEA-2021-2-B\lab07\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\drandredev\Documents\VI SEMESTRE\Desarrollo de Aplicaciones Empresariales Avanzado\DAEA-2021-2-B\lab07\Presentacion\bin\Debug\Negocio.dll
+C:\Users\drandredev\Documents\VI SEMESTRE\Desarrollo de Aplicaciones Empresariales Avanzado\DAEA-2021-2-B\lab07\Presentacion\bin\Debug\Datos.dll
+C:\Users\drandredev\Documents\VI SEMESTRE\Desarrollo de Aplicaciones Empresariales Avanzado\DAEA-2021-2-B\lab07\Presentacion\bin\Debug\Negocio.pdb
+C:\Users\drandredev\Documents\VI SEMESTRE\Desarrollo de Aplicaciones Empresariales Avanzado\DAEA-2021-2-B\lab07\Presentacion\bin\Debug\Datos.pdb
+C:\Users\drandredev\Documents\VI SEMESTRE\Desarrollo de Aplicaciones Empresariales Avanzado\DAEA-2021-2-B\lab07\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\drandredev\Documents\VI SEMESTRE\Desarrollo de Aplicaciones Empresariales Avanzado\DAEA-2021-2-B\lab07\Presentacion\obj\Debug\Presentacion.Form1.resources
+C:\Users\drandredev\Documents\VI SEMESTRE\Desarrollo de Aplicaciones Empresariales Avanzado\DAEA-2021-2-B\lab07\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\drandredev\Documents\VI SEMESTRE\Desarrollo de Aplicaciones Empresariales Avanzado\DAEA-2021-2-B\lab07\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\drandredev\Documents\VI SEMESTRE\Desarrollo de Aplicaciones Empresariales Avanzado\DAEA-2021-2-B\lab07\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\drandredev\Documents\VI SEMESTRE\Desarrollo de Aplicaciones Empresariales Avanzado\DAEA-2021-2-B\lab07\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\drandredev\Documents\VI SEMESTRE\Desarrollo de Aplicaciones Empresariales Avanzado\DAEA-2021-2-B\lab07\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\drandredev\Documents\VI SEMESTRE\Desarrollo de Aplicaciones Empresariales Avanzado\DAEA-2021-2-B\lab07\Presentacion\obj\Debug\Presentacion.pdb
