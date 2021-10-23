@@ -1,6 +1,0 @@
-C:\Users\drandredev\Documents\VI SEMESTRE\Desarrollo de Aplicaciones Empresariales Avanzado\DAEA-2021-2-B\lab07\Datos\bin\Debug\Datos.dll
-C:\Users\drandredev\Documents\VI SEMESTRE\Desarrollo de Aplicaciones Empresariales Avanzado\DAEA-2021-2-B\lab07\Datos\bin\Debug\Datos.pdb
-C:\Users\drandredev\Documents\VI SEMESTRE\Desarrollo de Aplicaciones Empresariales Avanzado\DAEA-2021-2-B\lab07\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
-C:\Users\drandredev\Documents\VI SEMESTRE\Desarrollo de Aplicaciones Empresariales Avanzado\DAEA-2021-2-B\lab07\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
-C:\Users\drandredev\Documents\VI SEMESTRE\Desarrollo de Aplicaciones Empresariales Avanzado\DAEA-2021-2-B\lab07\Datos\obj\Debug\Datos.dll
-C:\Users\drandredev\Documents\VI SEMESTRE\Desarrollo de Aplicaciones Empresariales Avanzado\DAEA-2021-2-B\lab07\Datos\obj\Debug\Datos.pdb
